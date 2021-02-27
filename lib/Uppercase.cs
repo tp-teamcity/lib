@@ -2,6 +2,6 @@
 {
     public static class Uppercase
     {
-        public static string ToUpper(string s) => s.ToUpper() ;
+        public static string ToUpper(string s) => s.ToUpper();
     }
 }
