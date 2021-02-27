@@ -2,6 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>net472</TargetFramework>
+        <Title>Lib.UpperCase</Title>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
